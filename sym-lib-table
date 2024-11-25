@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ESP32-DEVKITC-32D")(type "KiCad")(uri "${KIPRJMOD}/ESP32-DEVKITC-32D/ESP32-DEVKITC-32D.kicad_sym")(options "")(descr ""))
+  (lib (name "RA-02_LORA")(type "KiCad")(uri "${KIPRJMOD}/RA-02_LORA/RA-02_LORA.kicad_sym")(options "")(descr ""))
+  (lib (name "DM-OLED096-636")(type "KiCad")(uri "${KIPRJMOD}/DM-OLED096-636/DM-OLED096-636.kicad_sym")(options "")(descr ""))
+)
